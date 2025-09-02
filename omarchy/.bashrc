@@ -12,4 +12,3 @@ source ~/.local/share/omarchy/default/bash/rc
 #
 # Set a custom prompt with the directory revealed (alternatively use https://starship.rs)
 # PS1="\W \[\e]0;\w\a\]$PS1"
-eval "$(zellij setup --generate-auto-start bash)"
